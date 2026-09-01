@@ -4,7 +4,7 @@
 ## 项目概述
 本项目完整名称为**多兼容型智能无人机挂载系统**完整英文名为“Multi-Compatible Intelligent UAV Payload System”，包含机械脱钩结构设计、3D打印结构件、STM32控制固件与PnP-Link通信协议，可实现不同载荷的快速换装与标准化控制。
 
-![合照](assets/images/mmexport86d0843db1374e8db99987fe696b3b18_1781526.jpeg)
+![合照](docs/images/mmexport86d0843db1374e8db99987fe696b3b18_1781526.jpeg)
 
 ## 项目功能
 多兼容型智能无人机挂载系统，首创“挂载臂（母座）+子挂载（公头）”分离式架构，彻底打破无人机“一机一用”的局限。
